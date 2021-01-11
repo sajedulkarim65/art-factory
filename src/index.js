@@ -2,6 +2,14 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from "./app/App";
 import reportWebVitals from './reportWebVitals';
+import "bootstrap/dist/css/bootstrap.css";
+import "./assets/css/templatemo-art-factory.css";
+import "../node_modules/font-awesome/css/font-awesome.min.css";
+
+// import OwlCarousel from "react-owl-carousel";
+import "owl.carousel/dist/assets/owl.carousel.css";
+import "owl.carousel/dist/assets/owl.theme.default.css";
+
 
 ReactDOM.render(
   <React.StrictMode>
